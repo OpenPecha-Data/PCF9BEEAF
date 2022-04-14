@@ -1,0 +1,42 @@
+id: PCF9BEEAF
+initial_creation_type: input
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA3JT13383
+  instance_id: http://purl.bdrc.io/resource/IE3JT13383
+  collection_id: http://purl.bdrc.io/resource/PR0ET010
+  language_id: None
+  title:
+    bo:
+    - ཚད་མ་རྣམ་འགྲེལ་གྱི་འགྲེལ་པ་ཟུར་བཀོལ།
+  alt_title:
+    bo:
+    - ཚད་མ་རིགས་གཞུང་རྒྱ་མཚོ་ལས། རྣམ་འགྲེལ་གྱི་འགྲེལ་པ་ཟུར་བཀོལ།
+  author: http://purl.bdrc.io/resource/P2486
+  publisher: Various
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    4fdc9da2a5c34c5fa342e5a90f4723f7:
+      title: ལེའུུ་གཉིས་པ།མངོན་སུམ།
+      volume_number: 2
+      base_file: UT3JT13383_002_0002.txt
+      reference: http://purl.bdrc.io/resource/VL71FABD43E5B19B3E
+      image_group: null
+      quality: null
+    612f155522974ef28267ee442c359739:
+      title: ༄༅།་།ཚད་མ་རིགས་གཞུང་རྒྱ་མཚོ་ལས།རྣམ་འགྲེལ་གྱི་འགྲེལ་པ་ཟུར་བཀོལ་བཞུགས་སོ།་།
+      volume_number: 3
+      base_file: UT3JT13383_003_0001.txt
+      reference: http://purl.bdrc.io/resource/VLC44CE24FD09D2976
+      image_group: null
+      quality: null
+    d343abb753b84a0091b5b9494ed92c88:
+      title: ༄༅།་།ཚད་མ་རིགས་གཞུང་རྒྱ་མཚོ་ལས།རྣམ་འགྲེལ་གྱི་འགྲེལ་པ་ཟུར་བཀོལ་བཞུགས་སོ།་།
+      volume_number: 1
+      base_file: UT3JT13383_001_0001.txt
+      reference: http://purl.bdrc.io/resource/VL8862D45E506F3DCF
+      image_group: null
+      quality: null
+  reproductionOf: []
+created_at: '2021-12-31T08:22:10.920351'
+last_modified_at: '2021-12-31T08:22:10.920358'
