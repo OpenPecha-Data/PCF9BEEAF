@@ -1,0 +1,129 @@
+form	lemma	POS	morph
+མཆན་	མཆན་	NOUN
+།		PUNCT
+ལེའུ་	ལེའུ་	NOUN
+དང་པོ་	དང་པོ་	ADJ
+།		PUNCT
+ཚད་	ཚད་	NOUN
+གྲུབ་	གྲུབ་	VERB
+།		PUNCT
+		
+རྒྱ་དཔེ་	རྒྱ་དཔེ་	NOUN
+ར་	ལ་	PART
+ཤློཀ་		NON_WORD
+གཅིག་	གཅིག་	NUM
+ལ་	ལ་	PART
+བོད་	བོད་	PROPN
+འགྱུར་ཚིག་	འགྱུར་ཚིག་	NO_POS
+རྐང་	རྐང་	NOUN
+ལྔ་	ལྔ་	NUM
+བསྒྱུར་བ་	བསྒྱུར་བ་	VERB
+སྣང་	སྣང་	VERB
+།		PUNCT
+		
+ཤློཀ་		NON_WORD
+འདི་	འདི་	DET
+དེང་སང་	དེང་སང་	ADV
+རྙེད་པ་	རྙེད་པ་	VERB
+འི་	གི་	PART
+སློབ་དཔོན་	སློབ་དཔོན་	NOUN
+ཡིད་	ཡིད་	NOUN
+ཀྱི་	གི་	PART
+ཤིང་རྟ་	ཤིང་རྟ་	NOUN
+དགའ་བོ་	དགའ་བོ་	PROPN
+སྟེ་	སྟེ་	PART
+མནོརཐནྡྀ་		NON_WORD
+ཡི་	གི་	PART
+རྒྱ་དཔེ་	རྒྱ་དཔེ་	NOUN
+འི་	གི་	PART
+འགྲེལ་པ་	འགྲེལ་པ་	NOUN
+ར་	ལ་	PART
+བཀོད་པ་	བཀོད་པ་	VERB
+འི་	གི་	PART
+རྩ་	རྩ་	NUM
+གཞུང་	གཞུང་	NOUN
+ནང་མི་	ནང་མི་	NOUN
+སྣང་	སྣང་	VERB
+ཡང་	ཀྱང་	PART
+རིགས་	རིགས་	NOUN
+གཞུང་	གཞུང་	NOUN
+རྒྱ་མཚོ་	རྒྱ་མཚོ་	NOUN
+དང་	དང་	NO_POS
+བོད་	བོད་	PROPN
+ཀྱི་	གི་	PART
+མ་དཔེ་	མ་དཔེ་	OTHER
+ཁག་	ཁག་	NOUN
+གཞིར་བཞག་	གཞིར་བཞག་	OTHER
+ན་	ནས་	PART
+ཤློཀའི་		NON_WORD
+ཨང་གྲངས་	ཨང་གྲངས་	OTHER
+བཀོད་	བཀོད་	VERB
+ཡོད་	ཡོད་	VERB
+།		PUNCT
+		
+རྒྱ་དཔེ་	རྒྱ་དཔེ་	NOUN
+ར་	ལ་	PART
+ཤློཀ་		NON_WORD
+		
+དང་	དང་	NO_POS
+		
+འདི་	འདི་	DET
+གཉིས་	གཉིས་	NUM
+ལ་	ལ་	PART
+ཚིག་རྐང་པ་	ཚིག་རྐང་པ་	OTHER
+བརྒྱད་	བརྒྱད་	NUM
+ཡོད་	ཡོད་	VERB
+ན་	ན་	ADP
+འང་	ཀྱང་	PART
+བོད་	བོད་	PROPN
+དཔེ་	དཔེ་	NOUN
+ར་	ལ་	PART
+རྐང་པ་	རྐང་པ་	NOUN
+བདུན་	བདུན་	NUM
+ལས་མི་	ལས་མི་	NOUN
+སྣང་	སྣང་	VERB
+།		PUNCT
+		
+རྒྱ་དཔེ་	རྒྱ་དཔེ་	NOUN
+ར་	ལ་	PART
+ཤློཀ་		NON_WORD
+གཅིག་	གཅིག་	NUM
+ལ་	ལ་	PART
+བོད་	བོད་	PROPN
+འགྱུར་ཚིག་	འགྱུར་ཚིག་	NO_POS
+རྐང་	རྐང་	NOUN
+ལྔ་	ལྔ་	NUM
+བསྒྱུར་བ་	བསྒྱུར་བ་	VERB
+སྣང་	སྣང་	VERB
+།		PUNCT
+		
+རྒྱ་དཔེ་	རྒྱ་དཔེ་	NOUN
+ར་	ལ་	PART
+ལྟ་	ལྟ་	OTHER
+ན་	ལ་	PART
+འདི་	འདི་	DET
+ར་	ལ་	PART
+ཤློཀ་		NON_WORD
+		
+ཡི་	གི་	PART
+ཉོན་མོངས་	ཉོན་མོངས་	NOUN
+མེད་པ་	མེད་པ་	VERB
+ར་	ལ་	PART
+ཀུན་	ཀུན་	DET
+སྤོང་	སྤོང་	VERB
+འགྱུར་	འགྱུར་	VERB
+།།		PUNCT
+ཞེས་་	ཞེས་པ་	PART
+འི་	གི་	PART
+ཚིག་རྐང་	ཚིག་རྐང་	OTHER
+ཡོད་	ཡོད་	VERB
+དགོས་	དགོས་	VERB
+ཀྱང་	ཀྱང་	PART
+འདི་	འདི་	DET
+ར་	ལ་	PART
+རིགས་	རིགས་	NOUN
+གཞུང་	གཞུང་	NOUN
+རྒྱ་མཚོ་	རྒྱ་མཚོ་	NOUN
+ལྟ་	ལྟ་	OTHER
+རང་སོ་		
+བཞག་	བཞག་	VERB
